@@ -30,6 +30,10 @@ class Model_user extends CI_Model {
 		}
 	}
 
+	function get_all() {
+		return $this->db->get($this->table);
+	}
+
 }
 
 /* End of file Model_user.php */
