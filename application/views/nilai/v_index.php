@@ -1,5 +1,5 @@
 <div class="container-fluid">
-	<div class="card">
+	<div class="card mb-4">
 		<div class="card-body">
 			<!-- Page Heading -->
 			<div class="d-sm-flex align-items-center justify-content-between mb-4">
